@@ -1,0 +1,19 @@
+# Datasets
+C1_PyTorch_Fundamentals/Module2_The_PyTorch_Workflow/data
+C1_PyTorch_Fundamentals/Module2_The_PyTorch_Workflow/assignment/EMNIST_data
+C1_PyTorch_Fundamentals/Module3_Data Management_in_PyTorch/corrupted_flower_data
+C1_PyTorch_Fundamentals/Module3_Data Management_in_PyTorch/flower_data
+C1_PyTorch_Fundamentals/Module4_Core_Neural_Network_Components/cifar_100
+C2_technique_and_ecosystems/cifar10
+C2_technique_and_ecosystems/cifar10_3class_imbalanced
+C2_technique_and_ecosystems/images
+C2_technique_and_ecosystems/oxford3pet_data
+
+# Archives
+*.tar.gz
+*.zip
+*.gz
+
+# Python
+__pycache__/
+*.pyc
